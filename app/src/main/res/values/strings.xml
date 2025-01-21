@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GoldZen</string>
+
+    <string name="issue_1">1. 臨床上有哪些傳染途徑?</string>
+    <string name="issue_2">2. 正確的手部衛生洗手五時機有哪些?</string>
+    <string name="issue_3">3. 接觸傳染防護措施的病人時，照服員應該如何選擇合適的手套?</string>
+    <string name="issue_4">4. 請為照服員選擇標準隔離防護措施個人防護裝備(PPE)配備?</string>
+    <string name="issue_5">5. 照服員要著裝隔離防護裝備，請點選出手套的穿脫重點?</string>
+    <string name="issue_6">6. 照服員要著裝隔離防護裝備，要如何正確穿脫隔離衣?</string>
+    <string name="issue_7">7. 個案小美剛入住機構，身上都是紅點，小美表示會癢，請問要先做哪方面隔離措施?</string>
+    <string name="issue_8">8. 接觸疑似皮膚傳染性感染者需要哪些裝備?</string>
+    <string name="issue_9">9. 點出疥瘡是屬於哪個傳播途徑?</string>
+    <string name="issue_10">10. 照服員照顧疥瘡個案的接觸防護措施需要哪些裝備 ?\n(多選題)</string>
+
+
+    <string name="answer_1_a">A.接觸傳染</string>
+    <string name="answer_1_a1">接觸傳染</string>
+    <string name="answer_1_b">B.飛沫傳染</string>
+    <string name="answer_1_b1">飛沫傳染</string>
+    <string name="answer_1_c">C.空氣傳染</string>
+    <string name="answer_1_c1">空氣傳染</string>
+    <string name="answer_1_d">D.移動傳染</string>
+    <string name="answer_1_d1">移動傳染</string>
+
+    <string name="answer_2_a">A.碰觸病人體液風險後需洗手</string>
+    <string name="answer_2_b">B.執行清潔/無菌技術前需洗手</string>
+    <string name="answer_2_c">C.接觸病人周遭環境後需洗手</string>
+    <string name="answer_2_d">D.接觸病人前需洗手，離開病人後不需要</string>
+
+    <string name="answer_6_1">A. 手套需覆蓋隔離衣</string>
+    <string name="answer_6_2">B. 肩膀往手臂捲動</string>
+    <string name="answer_6_3">C. 套上隔離衣</string>
+    <string name="answer_6_4">D. 慢動作解開下面綁帶</string>
+    <string name="answer_6_5">E. 包好</string>
+    <string name="answer_6_6">F. 手套從內側往外側卷</string>
+    <string name="answer_6_7">G. 慢慢講隔離衣捲好包好</string>
+    <string name="answer_6_8">H. 上下綁帶皆需綁好</string>
+    <string name="answer_6_9">I. 慢動作解開上面綁帶</string>
+
+    <string name="answer_7_a">A.隔離衣</string>
+    <string name="answer_7_b">B.戴外科口罩</string>
+    <string name="answer_7_c">C.洗手</string>
+    <string name="answer_7_d">D.帶N95口罩</string>
+
+    <string name="answer_8_a">A.手套</string>
+    <string name="answer_8_b">B.隔離衣</string>
+    <string name="answer_8_c">C.外科口罩</string>
+    <string name="answer_8_d">D.腳套</string>
+
+    <string name="answer_9_a">A.空氣隔離</string>
+    <string name="answer_9_b">B.飛沫隔離</string>
+    <string name="answer_9_c">C.接觸隔離</string>
+    <string name="answer_9_d">D.移動隔離</string>
+</resources>

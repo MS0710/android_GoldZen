@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#DF8E99" />
+    <stroke
+        android:width="3px"
+        android:color="#FDE467" />
+    <!-- 设置四个圆角的半径 -->
+
+    <corners
+        android:bottomLeftRadius="200px"
+        android:bottomRightRadius="200px"
+        android:topLeftRadius="200px"
+        android:topRightRadius="200px" />
+
+    <padding
+        android:bottom="5dp"
+        android:left="5dp"
+        android:right="5dp"
+        android:top="5dp" />
+
+</shape>

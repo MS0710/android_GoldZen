@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RankRecordActivity"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/background_color">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="遊戲紀錄"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:fontFamily="@font/regular"/>
+
+    <TextView
+        android:id="@+id/txt_rankRecord_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="玩家: Text"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/regular"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="關卡"
+            android:textSize="15dp"
+            android:background="@drawable/textview_title_border"
+            android:padding="5dp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="遊玩次數"
+            android:textSize="15dp"
+            android:background="@drawable/textview_title_border"
+            android:padding="5dp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="花費時間"
+            android:textSize="15dp"
+            android:background="@drawable/textview_title_border"
+            android:padding="5dp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="通關狀況"
+            android:textSize="15dp"
+            android:background="@drawable/textview_title_border"
+            android:padding="5dp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_rankRecord_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
