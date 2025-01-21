@@ -30,5 +30,5 @@ Android 選擇題遊戲APP(金蟬脫殼)
 | <img src="images/闖關失敗.jpg" width="50%"> | <img src="images/複選題.jpg" width="50%">|
 
 | 複選題_紙娃娃 |
-| :----: | :----: |
+| :----: |
 | <img src="images/複選題_紙娃娃.jpg" width="50%"> | 
